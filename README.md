@@ -30,6 +30,13 @@
 - **Record Label:** Incursion Music
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
+<p align="center">
+  <img src="Biday%20Songbidhan/Album%20Cover/folder.jpg" width="300" alt="Biday Songbidhan Album Cover" />
+</p> (বিদায় সংবিধান)
+- **Release Year:** 2013
+- **Record Label:** Incursion Music
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
 ### 📖 About the Album
 Released in July 2013 under Incursion Music, *Biday Songbidhan* (*"Farewell to the Constitution"*) is Minerva's critically acclaimed debut studio album. Produced, mixed, and mastered by guitarist Sultan Rafsan Khan, the album confronts social corruption, rigid societal barriers, and political turmoil across eight tracks in Bengali and English.
 
@@ -43,6 +50,13 @@ Released in July 2013 under Incursion Music, *Biday Songbidhan* (*"Farewell to t
 - [**06. Dhongshoprapto Jaatishotta (ধ্বংসপ্রাপ্ত জাতিসত্তা)**](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/06.%20Dhongshoprapto%20Jaatishotta.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/06.%20Dhongshoprapto%20Jaatishotta.flac?download=true)
 - [**07. Blood of Italia**](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/07.%20Blood%20of%20Italia.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/07.%20Blood%20of%20Italia.flac?download=true)
 - [**08. Songbidhaner Biday (সংবিধানের বিদায়)**](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/08.%20Songbidhaner%20Biday.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/08.%20Songbidhaner%20Biday.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Biday%20Songbidhan/Album%20Cover/Front%20%5BArtwork%5D.jpg" width="300" alt="1. Front Artwork" /><br><sub><b>1. Front Artwork</b></sub> | <img src="Biday%20Songbidhan/Album%20Cover/Biday%20Shongbidhan%20%5BFront-Back%5D.jpg" width="300" alt="2. Gatefold Front-Back" /><br><sub><b>2. Gatefold Front-Back</b></sub> |
+| <img src="Biday%20Songbidhan/Album%20Cover/Biday%20Shongbidhan%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> | <img src="Biday%20Songbidhan/Album%20Cover/Biday%20Shongbidhan%20%5BInlays%5D.jpg" width="300" alt="4. Inlays" /><br><sub><b>4. Inlays</b></sub> |
 
 ---
 
