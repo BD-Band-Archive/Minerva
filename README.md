@@ -32,10 +32,7 @@
 
 <p align="center">
   <img src="Biday%20Songbidhan/Album%20Cover/folder.jpg" width="300" alt="Biday Songbidhan Album Cover" />
-</p> (বিদায় সংবিধান)
-- **Release Year:** 2013
-- **Record Label:** Incursion Music
-- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+</p>
 
 ### 📖 About the Album
 Released in July 2013 under Incursion Music, *Biday Songbidhan* (*"Farewell to the Constitution"*) is Minerva's critically acclaimed debut studio album. Produced, mixed, and mastered by guitarist Sultan Rafsan Khan, the album confronts social corruption, rigid societal barriers, and political turmoil across eight tracks in Bengali and English.
@@ -61,11 +58,20 @@ Released in July 2013 under Incursion Music, *Biday Songbidhan* (*"Farewell to t
 ---
 
 <a id="2-hatiar-2012"></a>
-## 2. [Hatiar (হাতিয়ার) (2012)](https://github.com/GhostDog45/Mixed-Albums#17-hatiar-2012)
+## 2. [Hatiar (হাতিয়ার) (2012)](https://github.com/GhostDog45/Mixed-Albums#20-hatiar-2012)
 
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Minerva - Odrishsho Grohoraaj**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar%20%282012%29/07%20Odrishsho%20Grohoraaj.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar%20%282012%29/07%20Odrishsho%20Grohoraaj.wav?download=true)
+
+---
+
+<a id="3-rock-808-2015"></a>
+## 3. [Rock 808 (রক ৮০৮) (2015)](https://github.com/GhostDog45/Mixed-Albums#22-rock-808-2015)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Minerva - Ganitik Shomikoron**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20808%20%282015%29/3.%20Ganitik%20Shomikoron%20-%20Minerva.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20808%20%282015%29/3.%20Ganitik%20Shomikoron%20-%20Minerva.flac?download=true)
 
 ---
 
