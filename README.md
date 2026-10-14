@@ -18,6 +18,7 @@
 
 ### 💿 Mixed Albums
 2. [Hatiar (হাতিয়ার) (2012)](#2-hatiar-2012)
+3. [Rock 808 (রক ৮০৮) (2015)](#3-rock-808-2015)
 
 ---
 
@@ -50,7 +51,7 @@ Released in July 2013 under Incursion Music, *Biday Songbidhan* (*"Farewell to t
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Minerva - Odrishsho Grohoraaj**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar/07%20Odrishsho%20Grohoraaj.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar/07%20Odrishsho%20Grohoraaj.wav?download=true)
+- [**Minerva - Odrishsho Grohoraaj**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar%20%282012%29/07%20Odrishsho%20Grohoraaj.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar%20%282012%29/07%20Odrishsho%20Grohoraaj.wav?download=true)
 
 ---
 
