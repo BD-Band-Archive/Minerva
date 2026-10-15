@@ -52,8 +52,13 @@ Released in July 2013 under Incursion Music, *Biday Songbidhan* (*"Farewell to t
 
 | | |
 | :---: | :---: |
-| <img src="Biday%20Songbidhan/Album%20Cover/Front%20%5BArtwork%5D.jpg" width="300" alt="1. Front Artwork" /><br><sub><b>1. Front Artwork</b></sub> | <img src="Biday%20Songbidhan/Album%20Cover/Biday%20Shongbidhan%20%5BFront-Back%5D.jpg" width="300" alt="2. Gatefold Front-Back" /><br><sub><b>2. Gatefold Front-Back</b></sub> |
-| <img src="Biday%20Songbidhan/Album%20Cover/Biday%20Shongbidhan%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> | <img src="Biday%20Songbidhan/Album%20Cover/Biday%20Shongbidhan%20%5BInlays%5D.jpg" width="300" alt="4. Inlays" /><br><sub><b>4. Inlays</b></sub> |
+| <img src="Biday%20Songbidhan/Album%20Cover/Biday%20Shongbidhan%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Biday%20Songbidhan/Album%20Cover/Front%20%5BArtwork%5D.jpg" width="300" alt="2. Front Cover (Alternative Scan)" /><br><sub><b>2. Front Cover (Alternative Scan)</b></sub> |
+| <img src="Biday%20Songbidhan/Album%20Cover/Front%20%5BFull%20Artwork%5D.jpg" width="300" alt="3. Front Cover (Alternative Scan)" /><br><sub><b>3. Front Cover (Alternative Scan)</b></sub> | <img src="Biday%20Songbidhan/Album%20Cover/Booklet%20%28Page%201%20%26%2012%29.jpg" width="300" alt="4. Booklet & Lyrics" /><br><sub><b>4. Booklet & Lyrics</b></sub> |
+| <img src="Biday%20Songbidhan/Album%20Cover/Booklet%20%28Page%202%20%26%2011%29.jpg" width="300" alt="5. Booklet & Lyrics" /><br><sub><b>5. Booklet & Lyrics</b></sub> | <img src="Biday%20Songbidhan/Album%20Cover/Booklet%20%28Page%203%20%26%2010%29.jpg" width="300" alt="6. Booklet & Lyrics" /><br><sub><b>6. Booklet & Lyrics</b></sub> |
+| <img src="Biday%20Songbidhan/Album%20Cover/Booklet%20%28Page%204%20%26%209%29.jpg" width="300" alt="7. Booklet & Lyrics" /><br><sub><b>7. Booklet & Lyrics</b></sub> | <img src="Biday%20Songbidhan/Album%20Cover/Booklet%20%28Page%205%20%26%208%29.jpg" width="300" alt="8. Booklet & Lyrics" /><br><sub><b>8. Booklet & Lyrics</b></sub> |
+| <img src="Biday%20Songbidhan/Album%20Cover/Booklet%20%28Page%206%20%26%207%29.jpg" width="300" alt="9. Booklet & Lyrics" /><br><sub><b>9. Booklet & Lyrics</b></sub> | <img src="Biday%20Songbidhan/Album%20Cover/Biday%20Shongbidhan%20%5BInlays%5D.jpg" width="300" alt="10. Tray Inlay Artwork" /><br><sub><b>10. Tray Inlay Artwork</b></sub> |
+| <img src="Biday%20Songbidhan/Album%20Cover/Biday%20Shongbidhan%20%5BCD%5D.jpg" width="300" alt="11. Compact Disc (CD)" /><br><sub><b>11. Compact Disc (CD)</b></sub> | <img src="Biday%20Songbidhan/Album%20Cover/Final.jpg" width="300" alt="12. Final" /><br><sub><b>12. Final</b></sub> |
+| <img src="Biday%20Songbidhan/Album%20Cover/folder.jpg" width="300" alt="13. folder" /><br><sub><b>13. folder</b></sub> |  |
 
 ---
 
