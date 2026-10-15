@@ -1,6 +1,6 @@
 # 🎸 Minerva
 
-[![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostDog45/BD-Band-Music) [![Audio Format - Lossless Audio](https://img.shields.io/badge/Audio%20Format-Lossless%20Audio-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20Audio-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
+[![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BD-Band-Archive/BD-Band-Music) [![Audio Format - Lossless Audio](https://img.shields.io/badge/Audio%20Format-Lossless%20Audio-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20Audio-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
 
 <p align="center">
   <img src="assets/band_cover.png" alt="Minerva Band Cover" width="500" />
@@ -39,14 +39,14 @@ Released in July 2013 under Incursion Music, *Biday Songbidhan* (*"Farewell to t
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**01. Abirvab (আবির্ভাব)**](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/01.%20Abirvab.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/01.%20Abirvab.flac?download=true)
-- [**02. Mrittur Shesh Choy (মৃত্যুর শেষ ছয়)**](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/02.%20Mrittur%20Shesh%20Choy.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/02.%20Mrittur%20Shesh%20Choy.flac?download=true)
-- [**03. Ashirbaad (আশীর্বাদ)**](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/03.%20Ashirbaad.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/03.%20Ashirbaad.flac?download=true)
-- [**04. Jaatra (যাত্রা)**](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/04.%20Jaatra.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/04.%20Jaatra.flac?download=true)
-- [**05. God of War**](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/05.%20God%20of%20War.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/05.%20God%20of%20War.flac?download=true)
-- [**06. Dhongshoprapto Jaatishotta (ধ্বংসপ্রাপ্ত জাতিসত্তা)**](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/06.%20Dhongshoprapto%20Jaatishotta.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/06.%20Dhongshoprapto%20Jaatishotta.flac?download=true)
-- [**07. Blood of Italia**](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/07.%20Blood%20of%20Italia.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/07.%20Blood%20of%20Italia.flac?download=true)
-- [**08. Songbidhaner Biday (সংবিধানের বিদায়)**](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/08.%20Songbidhaner%20Biday.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Minerva/master/Biday%20Songbidhan/08.%20Songbidhaner%20Biday.flac?download=true)
+- [**01. Abirvab (আবির্ভাব)**](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/01.%20Abirvab.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/01.%20Abirvab.flac?download=true)
+- [**02. Mrittur Shesh Choy (মৃত্যুর শেষ ছয়)**](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/02.%20Mrittur%20Shesh%20Choy.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/02.%20Mrittur%20Shesh%20Choy.flac?download=true)
+- [**03. Ashirbaad (আশীর্বাদ)**](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/03.%20Ashirbaad.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/03.%20Ashirbaad.flac?download=true)
+- [**04. Jaatra (যাত্রা)**](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/04.%20Jaatra.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/04.%20Jaatra.flac?download=true)
+- [**05. God of War**](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/05.%20God%20of%20War.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/05.%20God%20of%20War.flac?download=true)
+- [**06. Dhongshoprapto Jaatishotta (ধ্বংসপ্রাপ্ত জাতিসত্তা)**](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/06.%20Dhongshoprapto%20Jaatishotta.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/06.%20Dhongshoprapto%20Jaatishotta.flac?download=true)
+- [**07. Blood of Italia**](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/07.%20Blood%20of%20Italia.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/07.%20Blood%20of%20Italia.flac?download=true)
+- [**08. Songbidhaner Biday (সংবিধানের বিদায়)**](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/08.%20Songbidhaner%20Biday.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Minerva/master/Biday%20Songbidhan/08.%20Songbidhaner%20Biday.flac?download=true)
 
 ### 🖼️ Album Artwork
 
@@ -62,20 +62,20 @@ Released in July 2013 under Incursion Music, *Biday Songbidhan* (*"Farewell to t
 ---
 
 <a id="2-hatiar-2012"></a>
-## 2. [Hatiar (হাতিয়ার) (2012)](https://github.com/GhostDog45/Mixed-Albums#20-hatiar-2012)
+## 2. [Hatiar (হাতিয়ার) (2012)](https://github.com/BD-Band-Archive/Mixed-Albums#20-hatiar-2012)
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Minerva - Odrishsho Grohoraaj**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar%20%282012%29/07%20Odrishsho%20Grohoraaj.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar%20%282012%29/07%20Odrishsho%20Grohoraaj.wav?download=true)
+- [**Minerva - Odrishsho Grohoraaj**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Hatiar%20%282012%29/07%20Odrishsho%20Grohoraaj.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Hatiar%20%282012%29/07%20Odrishsho%20Grohoraaj.wav?download=true)
 
 ---
 
 <a id="3-rock-808-2015"></a>
-## 3. [Rock 808 (রক ৮০৮) (2015)](https://github.com/GhostDog45/Mixed-Albums#22-rock-808-2015)
+## 3. [Rock 808 (রক ৮০৮) (2015)](https://github.com/BD-Band-Archive/Mixed-Albums#22-rock-808-2015)
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Minerva - Ganitik Shomikoron**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20808%20%282015%29/3.%20Ganitik%20Shomikoron%20-%20Minerva.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20808%20%282015%29/3.%20Ganitik%20Shomikoron%20-%20Minerva.flac?download=true)
+- [**Minerva - Ganitik Shomikoron**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20808%20%282015%29/3.%20Ganitik%20Shomikoron%20-%20Minerva.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20808%20%282015%29/3.%20Ganitik%20Shomikoron%20-%20Minerva.flac?download=true)
 
 ---
 
@@ -85,7 +85,7 @@ All audio tracks in this repository are managed via **Git LFS** (Large File Stor
 - **To clone locally with all audio files:**
   ```bash
   git lfs install
-  git clone https://github.com/GhostDog45/Minerva.git
+  git clone https://github.com/BD-Band-Archive/Minerva.git
   ```
 
 ---
