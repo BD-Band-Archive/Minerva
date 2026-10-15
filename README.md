@@ -58,7 +58,6 @@ Released in July 2013 under Incursion Music, *Biday Songbidhan* (*"Farewell to t
 | <img src="Biday%20Songbidhan/Album%20Cover/Booklet%20%28Page%204%20%26%209%29.jpg" width="300" alt="7. Booklet & Lyrics" /><br><sub><b>7. Booklet & Lyrics</b></sub> | <img src="Biday%20Songbidhan/Album%20Cover/Booklet%20%28Page%205%20%26%208%29.jpg" width="300" alt="8. Booklet & Lyrics" /><br><sub><b>8. Booklet & Lyrics</b></sub> |
 | <img src="Biday%20Songbidhan/Album%20Cover/Booklet%20%28Page%206%20%26%207%29.jpg" width="300" alt="9. Booklet & Lyrics" /><br><sub><b>9. Booklet & Lyrics</b></sub> | <img src="Biday%20Songbidhan/Album%20Cover/Biday%20Shongbidhan%20%5BInlays%5D.jpg" width="300" alt="10. Tray Inlay Artwork" /><br><sub><b>10. Tray Inlay Artwork</b></sub> |
 | <img src="Biday%20Songbidhan/Album%20Cover/Biday%20Shongbidhan%20%5BCD%5D.jpg" width="300" alt="11. Compact Disc (CD)" /><br><sub><b>11. Compact Disc (CD)</b></sub> | <img src="Biday%20Songbidhan/Album%20Cover/Final.jpg" width="300" alt="12. Final" /><br><sub><b>12. Final</b></sub> |
-| <img src="Biday%20Songbidhan/Album%20Cover/folder.jpg" width="300" alt="13. folder" /><br><sub><b>13. folder</b></sub> |  |
 
 ---
 
