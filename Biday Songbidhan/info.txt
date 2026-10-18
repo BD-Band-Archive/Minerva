@@ -1,0 +1,27 @@
+Album Name: Biday Songbidhan
+Album Type: Band
+Release Year: 2013
+Genre: Groove Metal
+Total Songs: 8
+Track List:
+01. Abirvab (আবির্ভাব)
+02. Mrittur Shesh Choy (মৃত্যুর শেষ ছয়)
+03. Ashirbaad (আশীর্বাদ)
+04. Jaatra (যাত্রা)
+05. God of War
+06. Dhongshoprapto Jaatishotta (ধ্বংসপ্রাপ্ত জাতিসত্তা)
+07. Blood of Italia
+08. Songbidhaner Biday (সংবিধানের বিদায়)
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 954 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : Lavf60.3.100
